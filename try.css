@@ -8,9 +8,9 @@ section
 {
     position:relative;
     width:100%;
-    height:400px;
+    height:600px;
     background:url(bg1.png);
-    background-size:100% 400px;
+    background-size:100% 600px;
     background-attachment:fixed;
 }
 
